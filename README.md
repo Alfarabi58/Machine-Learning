@@ -1,2 +1,2 @@
 # Project
-Project Data Science
+Project Machine Learning
